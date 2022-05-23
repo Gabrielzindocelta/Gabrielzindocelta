@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gabrielzindocelta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá, eu sou @Gabrielzindocelta
+- 👀 Eu gosto de jogar bola
+- 🌱 Atualmente estou aprendendo a programação do github
+- 💞️ 
 - 📫 How to reach me .
 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
